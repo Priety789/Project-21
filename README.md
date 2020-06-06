@@ -1,2 +1,2 @@
-# Project-21
-A small block slams into a bigger block and changes color
+# p5.play-boilerplate
+Boiler plate for p5.play
